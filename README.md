@@ -1,65 +1,42 @@
 <!-- Profile README.md -->
 
-<h1 align="center">Hi there 👋, I'm Ben</h1>
-<h3 align="center">Website Developer from the UK</h3>
-
----
-
-🌐 **About Me**
-
-I'm a passionate **Website Developer** based in the UK who can build *any* type of website—from landing pages and e-commerce shops to full-stack apps and gaming community portals. I specialize in:
-
-- ⚛️ **React Websites & Apps**
-- 🎮 Custom platforms for gaming communities
-- 🛍️ Modern, responsive sites for small businesses
-- ⚙️ Full-stack solutions (front-end & back-end)
-
-I love turning ideas into reality with clean, performant, and user-friendly code.
-
----
-
-💼 **What I Can Do For You**
-
-✅ **Custom Website Development**  
-✅ **React Front-End Engineering**  
-✅ **API Integrations & Back-End Logic**  
-✅ **UX/UI Design Implementation**  
-✅ **Community Platforms & Membership Systems**  
-✅ **Ongoing Maintenance & Support**
-
-Whether you’re a startup, a small business, or a gaming community, I’m here to help you create an impactful online presence.
-
----
-
-🛠 **Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-
----
-
-📈 **GitHub Stats**
+<h1 align="center">
+  🌟 Hi there, I'm <span style="color:#61dafb;">Ben</span> 👋
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ben&show_icons=true&theme=react&count_private=true" alt="Ben's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Benlee2k22&theme=react" alt="GitHub Streak"/>
+  <b>Creative Website Developer from the UK 🇬🇧</b><br/>
+  <i>I bring websites to life for small businesses and gaming communities.</i>
 </p>
 
 ---
 
-📫 **Get in Touch**
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-- 🌍 [Your Website or Portfolio]([https://your-website.com](https://createdbyben.com/))
-- ✉️ [Email](mailto:Ben@createdbyben.com)
+### 🎨 About Me
+🎯 **React Specialist** with a passion for crafting beautiful, responsive websites and apps.  
+👥 **Focused on helping small companies and gaming communities grow online.**  
+💡 Always exploring new tools and frameworks to create **modern, high-performance experiences**.
 
----
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-✨ *“Building websites that are fast, beautiful, and built to last.”*
+### 🛠 My Favorite Tech
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind" alt="My Tech Stack"/>
+</p>
 
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+### 🚀 What I Can Build
+✅ **Custom Websites & Portals**  
+✅ **React Single Page Applications**  
+✅ **Community Platforms**  
+✅ **E-commerce Stores**  
+✅ **Backend APIs & Integrations**  
+✅ **Ongoing Support & Maintenance**
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+### 🌟 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stat
