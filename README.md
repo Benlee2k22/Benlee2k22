@@ -47,18 +47,17 @@ Whether you’re a startup, a small business, or a gaming community, I’m here 
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&count_private=true" alt="Ben's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ben&show_icons=true&theme=react&count_private=true" alt="Ben's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=react" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Benlee2k22&theme=react" alt="GitHub Streak"/>
 </p>
 
 ---
 
 📫 **Get in Touch**
 
-- 🌍 [Your Website or Portfolio](https://your-website.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- ✉️ [Email](mailto:your.email@example.com)
+- 🌍 [Your Website or Portfolio]([https://your-website.com](https://createdbyben.com/))
+- ✉️ [Email](mailto:Ben@createdbyben.com)
 
 ---
 
