@@ -39,4 +39,25 @@
 
 ### 🌟 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stat
+  <img src="https://github-readme-stats.vercel.app/api?username=Benlee2k22&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benlee2k22&theme=radical" alt="GitHub Streak"/>
+</p>
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+### 💌 Connect With Me
+<p align="center">
+  <a href="mailto:ben@creadtedbyben.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://creadtedbyben.com">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Building websites that are fast, beautiful, and built to last. ✨</i>
+</p>
